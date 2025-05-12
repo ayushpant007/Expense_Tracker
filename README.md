@@ -21,4 +21,5 @@ A simple Java-based expense tracker that allows users to manage daily expenses, 
 Compile and run java files
 
 javac ExpenseTracker.java
+
 java ExpenseTracker
